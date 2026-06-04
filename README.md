@@ -6,7 +6,6 @@ This project analyzes retail sales transaction data to uncover revenue trends, t
 
 Through data cleaning, exploratory data analysis (EDA), feature engineering, and visualization, this project identifies sales drivers and highlights opportunities for business growth.
 
----
 
 ## Business Problem
 
