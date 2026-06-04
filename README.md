@@ -1,14 +1,12 @@
 # Retail Sales Analysis Dashboard
 
 ## Project Overview
-
 This project analyzes retail sales transaction data to uncover revenue trends, top-performing products, customer purchasing patterns, and key business insights. The objective is to transform raw sales data into actionable information that can support strategic business decisions.
 
 Through data cleaning, exploratory data analysis (EDA), feature engineering, and visualization, this project identifies sales drivers and highlights opportunities for business growth.
 
 
 ## Business Problem
-
 Retail businesses generate large volumes of transactional data daily. However, without proper analysis, valuable insights regarding customer behavior, product performance, and revenue trends may remain hidden.
 
 This project aims to answer the following business questions:
@@ -19,7 +17,6 @@ This project aims to answer the following business questions:
 * How do sales fluctuate over time?
 * What insights can support business decision-making?
 
----
 
 ## Dataset Information
 
