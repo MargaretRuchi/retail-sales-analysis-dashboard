@@ -32,7 +32,6 @@ The dataset contains transactional records from an online retail store and inclu
 * Country
 * Invoice Date
 
----
 
 ## Tools and Technologies
 
@@ -43,7 +42,6 @@ The dataset contains transactional records from an online retail store and inclu
 * Matplotlib
 * Seaborn
 
----
 
 ## Project Workflow
 
@@ -83,8 +81,6 @@ Developed charts and graphs to communicate key findings effectively.
 
 Generated recommendations based on observed trends and patterns.
 
----
-
 ## Key Performance Indicators (KPIs)
 
 The analysis focuses on the following KPIs:
@@ -94,8 +90,6 @@ The analysis focuses on the following KPIs:
 * Top-Selling Products
 * Monthly Revenue Trends
 * Country Revenue Distribution
-
----
 
 ## Visualizations
 
@@ -111,16 +105,12 @@ The analysis focuses on the following KPIs:
 
 ![Country Sales](visuals/country_sales.png)
 
----
-
 ## Key Findings
 
 * Revenue performance varied significantly across different months.
 * A small group of products generated a large proportion of total sales.
 * Certain countries contributed the majority of revenue.
 * Sales patterns indicated potential seasonal purchasing behavior.
-
----
 
 ## Business Recommendations
 
@@ -130,7 +120,6 @@ The analysis focuses on the following KPIs:
 4. Monitor underperforming products and optimize inventory allocation.
 5. Use historical sales trends to improve demand forecasting.
 
----
 
 ## Skills Demonstrated
 
@@ -141,8 +130,6 @@ The analysis focuses on the following KPIs:
 * Business Analytics
 * Insight Generation
 * Reporting and Communication
-
----
 
 ## Project Structure
 
@@ -167,8 +154,6 @@ retail-sales-analysis/
 │ └── cleaned_data.csv
 
 └── README.md
-
----
 
 ## Conclusion
 
