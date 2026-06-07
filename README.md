@@ -99,18 +99,36 @@ The analysis focuses on the following KPIs:
 
 ## Key Findings
 
-* Revenue performance varied significantly across different months.
-* A small group of products generated a large proportion of total sales.
-* Certain countries contributed the majority of revenue.
-* Sales patterns indicated potential seasonal purchasing behavior.
+1. Monthly Revenue Trend
+*Revenue fluctuates throughout the year rather than growing steadily.
+*December records one of the highest revenue peaks, indicating strong holiday-season demand.
+*Another major sales peak occurs around September/October, suggesting a second high-demand period.
+*January shows the lowest revenue, reflecting a typical post-holiday sales decline.
+*Revenue generally recovers after January and remains relatively stable before rising sharply again later in the year.
+
+2. Top 10 Products by Revenue
+*PAPER CRAFT, LITTLE BIRDIE generated the highest revenue, significantly outperforming all other products.
+*REGENCY CAKESTAND 3 TIER is the second-best revenue-generating product.
+*The top three products contribute a substantial portion of overall product revenue, indicating a strong dependence on a few high-performing items.
+*Revenue gradually declines from the first-ranked product to the tenth-ranked product, showing a clear revenue concentration among top sellers.
+*Products such as RABBIT NIGHT LIGHT, Manual, and ASSORTED COLOUR BIRD ORNAMENT still contribute meaningful revenue but at much lower levels than the leading products.
+
+3. Top Countries by Revenue
+*The United Kingdom dominates revenue generation, contributing overwhelmingly more revenue than any other country.
+*There is a significant gap between the UK and all other markets.
+*Countries such as Netherlands, EIRE, Germany, France, and Australia contribute revenue but at a much smaller scale.
+*Revenue from countries like Spain, Switzerland, Belgium, and Sweden is relatively low.
 
 ## Business Recommendations
 
-1. Increase inventory levels for high-performing products.
-2. Prepare marketing campaigns ahead of peak sales periods.
-3. Focus customer retention efforts in high-revenue markets.
-4. Monitor underperforming products and optimize inventory allocation.
-5. Use historical sales trends to improve demand forecasting.
+1. Focus inventory management, promotions, and stock availability on the highest-performing products, especially PAPER CRAFT, LITTLE BIRDIE and REGENCY CAKESTAND 3 TIER, as they drive a large share of sales revenue.
+2. Prepare inventory and marketing campaigns ahead of peak periods (especially Q4).
+3. Introduce promotions during low-performing months, particularly January, to reduce seasonal revenue drops.
+4. Forecast staffing and stock requirements based on expected seasonal demand.
+5. The business is highly dependent on the UK market.
+6. There is an opportunity to expand sales efforts in European countries where some customer base already exists.
+7. Diversifying revenue sources across additional countries can reduce market concentration risk.
+
 
 ## Skills Demonstrated
 
